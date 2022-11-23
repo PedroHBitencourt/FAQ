@@ -17,7 +17,7 @@
     .container{
         grid-template-columns: 1fr;
         grid-template-rows: 12% 70%;
-        width: 28rem;
+        width: 35rem;
         height: 45rem;
         margin-top: 6rem;
     }
